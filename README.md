@@ -25,7 +25,7 @@ nvm use 14.16.0
 Clone the movie-app-mern repository in your directory.
 
 ```bash
-git clone https://github.com/parth-0710/movie-app.git
+git clone https://github.com/parth-0710/Movie-App.git
 ```
 
 Create "dev.js" file in /server/config directory and insert your mongoDB information.
