@@ -8,11 +8,11 @@ This web app was built with the MERN stack and [The Movie Database API](https://
 ## Functionality
 
 
-->The ability to search for movies by title or keyword.
-->The ability to view detailed information about a selected movie, including the title, release date, synopsis, and ratings.
-->The ability to create an account, log in, and save favorite movies.
-->The ability to view a list of favorite movies for the logged-in user.
-->The ability to remove movies from the list of favorites.
+->The ability to search for movies by title or keyword.<br />
+->The ability to view detailed information about a selected movie, including the title, release date, synopsis, and ratings.<br />
+->The ability to create an account, log in, and save favorite movies.<br />
+->The ability to view a list of favorite movies for the logged-in user.<br />
+->The ability to remove movies from the list of favorites.<br />
 
 
 ## Installation
